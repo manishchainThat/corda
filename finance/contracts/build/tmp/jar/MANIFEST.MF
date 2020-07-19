@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Corda-Platform-Version: 5
+Automatic-Module-Name: net.corda.contracts
+Corda-Revision: n/a
+Corda-Vendor: Corda Open Source
+Corda-Release-Version: 5.0-SNAPSHOT
+

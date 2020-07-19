@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.corda.finance.CurrenciesTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-14T04:49:57" hostname="Apples-MacBook-Pro.local" time="0.419">
+  <properties/>
+  <testcase name="basic currency" classname="net.corda.finance.CurrenciesTests" time="0.238"/>
+  <testcase name="parseCurrency" classname="net.corda.finance.CurrenciesTests" time="0.171"/>
+  <testcase name="rendering" classname="net.corda.finance.CurrenciesTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

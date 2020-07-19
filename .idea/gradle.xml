@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/client" />
+            <option value="$PROJECT_DIR$/client/jackson" />
+            <option value="$PROJECT_DIR$/client/jfx" />
+            <option value="$PROJECT_DIR$/client/mock" />
+            <option value="$PROJECT_DIR$/client/rpc" />
+            <option value="$PROJECT_DIR$/common/configuration-parsing" />
+            <option value="$PROJECT_DIR$/common/logging" />
+            <option value="$PROJECT_DIR$/common/validation" />
+            <option value="$PROJECT_DIR$/confidential-identities" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core-deterministic" />
+            <option value="$PROJECT_DIR$/core-deterministic/testing" />
+            <option value="$PROJECT_DIR$/core-deterministic/testing/data" />
+            <option value="$PROJECT_DIR$/core-deterministic/testing/verifier" />
+            <option value="$PROJECT_DIR$/core-tests" />
+            <option value="$PROJECT_DIR$/docker" />
+            <option value="$PROJECT_DIR$/docs" />
+            <option value="$PROJECT_DIR$/docs/source/example-code" />
+            <option value="$PROJECT_DIR$/experimental" />
+            <option value="$PROJECT_DIR$/experimental/avalanche" />
+            <option value="$PROJECT_DIR$/experimental/corda-utils" />
+            <option value="$PROJECT_DIR$/experimental/netparams" />
+            <option value="$PROJECT_DIR$/experimental/nodeinfo" />
+            <option value="$PROJECT_DIR$/experimental/quasar-hook" />
+            <option value="$PROJECT_DIR$/finance" />
+            <option value="$PROJECT_DIR$/finance/contracts" />
+            <option value="$PROJECT_DIR$/finance/workflows" />
+            <option value="$PROJECT_DIR$/isolated" />
+            <option value="$PROJECT_DIR$/jdk8u-deterministic" />
+            <option value="$PROJECT_DIR$/node" />
+            <option value="$PROJECT_DIR$/node-api" />
+            <option value="$PROJECT_DIR$/node/capsule" />
+            <option value="$PROJECT_DIR$/samples" />
+            <option value="$PROJECT_DIR$/samples/attachment-demo" />
+            <option value="$PROJECT_DIR$/samples/attachment-demo/contracts" />
+            <option value="$PROJECT_DIR$/samples/attachment-demo/workflows" />
+            <option value="$PROJECT_DIR$/samples/bank-of-corda-demo" />
+            <option value="$PROJECT_DIR$/samples/cordapp-configuration" />
+            <option value="$PROJECT_DIR$/samples/cordapp-configuration/workflows" />
+            <option value="$PROJECT_DIR$/samples/irs-demo" />
+            <option value="$PROJECT_DIR$/samples/irs-demo/cordapp" />
+            <option value="$PROJECT_DIR$/samples/irs-demo/cordapp/contracts-irs" />
+            <option value="$PROJECT_DIR$/samples/irs-demo/cordapp/workflows-irs" />
+            <option value="$PROJECT_DIR$/samples/irs-demo/web" />
+            <option value="$PROJECT_DIR$/samples/network-verifier" />
+            <option value="$PROJECT_DIR$/samples/network-verifier/contracts" />
+            <option value="$PROJECT_DIR$/samples/network-verifier/workflows" />
+            <option value="$PROJECT_DIR$/samples/notary-demo" />
+            <option value="$PROJECT_DIR$/samples/notary-demo/contracts" />
+            <option value="$PROJECT_DIR$/samples/notary-demo/workflows" />
+            <option value="$PROJECT_DIR$/samples/simm-valuation-demo" />
+            <option value="$PROJECT_DIR$/samples/simm-valuation-demo/contracts-states" />
+            <option value="$PROJECT_DIR$/samples/simm-valuation-demo/flows" />
+            <option value="$PROJECT_DIR$/samples/trader-demo" />
+            <option value="$PROJECT_DIR$/samples/trader-demo/workflows-trader" />
+            <option value="$PROJECT_DIR$/serialization" />
+            <option value="$PROJECT_DIR$/serialization-deterministic" />
+            <option value="$PROJECT_DIR$/testing/node-driver" />
+            <option value="$PROJECT_DIR$/testing/smoke-test-utils" />
+            <option value="$PROJECT_DIR$/testing/test-cli" />
+            <option value="$PROJECT_DIR$/testing/test-common" />
+            <option value="$PROJECT_DIR$/testing/test-db" />
+            <option value="$PROJECT_DIR$/testing/test-utils" />
+            <option value="$PROJECT_DIR$/tools" />
+            <option value="$PROJECT_DIR$/tools/blobinspector" />
+            <option value="$PROJECT_DIR$/tools/bootstrapper" />
+            <option value="$PROJECT_DIR$/tools/cliutils" />
+            <option value="$PROJECT_DIR$/tools/demobench" />
+            <option value="$PROJECT_DIR$/tools/explorer" />
+            <option value="$PROJECT_DIR$/tools/explorer/capsule" />
+            <option value="$PROJECT_DIR$/tools/graphs" />
+            <option value="$PROJECT_DIR$/tools/loadtest" />
+            <option value="$PROJECT_DIR$/tools/network-builder" />
+            <option value="$PROJECT_DIR$/tools/shell" />
+            <option value="$PROJECT_DIR$/tools/shell-cli" />
+            <option value="$PROJECT_DIR$/tools/worldmap" />
+            <option value="$PROJECT_DIR$/webserver" />
+            <option value="$PROJECT_DIR$/webserver/webcapsule" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

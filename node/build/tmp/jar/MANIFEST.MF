@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Corda-Platform-Version: 5
+Automatic-Module-Name: net.corda.node
+Corda-Revision: 9bf26c20e023685e6084fc1d11122d41e0bd571f
+Corda-Vendor: Corda Open Source
+Corda-Release-Version: 5.0-SNAPSHOT
+
